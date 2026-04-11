@@ -1,16 +1,14 @@
-## Hi there 👋
+# OPL Scholars Advisory & Consultancy Ltd
 
-<!--
-**oplscholars/oplscholars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Empowering Academic and Professional Excellence**
 
-Here are some ideas to get you started:
+This is the official website for OPL Scholars Advisory & Consultancy Ltd — a research-driven academic platform connecting students, scholars, and professionals through mentorship, collaboration, and structured academic growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Website
+Visit the live site: [oplscholars.github.io](https://oplscholars.github.io)
+
+## 📧 Contact
+Email: researchcollaborationgroup5@gmail.com
+
+---
+© 2026 OPL Scholars Advisory & Consultancy Ltd. All rights reserved.
